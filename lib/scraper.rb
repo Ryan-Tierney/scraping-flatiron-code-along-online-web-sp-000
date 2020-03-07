@@ -41,11 +41,6 @@ class Scraper
     end
   end
   
-  Scraper.new.print_courses
-  
-  
-
-  
 end
 
 Scraper.new.get_page
